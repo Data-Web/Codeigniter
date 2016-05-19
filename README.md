@@ -19,15 +19,17 @@
   - Interbase/Firebird via the ibase and pdo drivers
   - ODBC via the odbc and pdo drivers (you should know that ODBC is actually an abstraction layer)
 
+## CodeIgniter Overview
+- [Codeigniter Overview](https://www.codeigniter.com/user_guide/overview/index.html)
+
+## Setup
+- [Installation Instructions] (https://www.codeigniter.com/user_guide/installation/index.html)
+
 ## Coding Convention
 - [Codeigniter PHP Coding Standards](https://www.codeigniter.com/user_guide/general/styleguide.html)
 
-## Books
-#### [PHP](./books.md#php)
-#### [Laravel](./books.md#laravel)
-
-## References
-#### [References](./references.md)
+## Getting Started With CodeIgniter
+#### [Getting Started With CodeIgniter](https://www.codeigniter.com/user_guide/overview/getting_started.html)
 
 ## Training
 
