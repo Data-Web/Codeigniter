@@ -91,6 +91,21 @@
   - User Agent Class
   - XML-RPC and XML-RPC Server Classes
   - Zip Encoding Class
-  - 
+  
+
 ## Database Reference
 ###### [Database Reference](https://www.codeigniter.com/user_guide/database/index.html)
+  - Quick Start: Usage Examples
+  - Database Configuration
+  - Connecting to a Database
+  - Running Queries
+  - Generating Query Results
+  - Query Helper Functions
+  - Query Builder Class
+  - Transactions
+  - Getting MetaData
+  - Custom Function Calls
+  - Query Caching
+  - Database Manipulation with Database Forge
+  - Database Utilities Class
+  - Database Driver Reference
