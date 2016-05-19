@@ -59,4 +59,5 @@
   - Alternate PHP Syntax for View Files
   - Security
 
-
+## Libraries
+###### [Libraries for CodeIgniter](https://www.codeigniter.com/user_guide/libraries/index.html)
