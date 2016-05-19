@@ -20,7 +20,7 @@
   - ODBC via the odbc and pdo drivers (you should know that ODBC is actually an abstraction layer)
 
 ## Coding Convention
-- [Framgia PHP Coding Standards](https://github.com/framgia/coding-standards/blob/master/eng/README.md#php)
+- [Codeigniter PHP Coding Standards](https://www.codeigniter.com/user_guide/general/styleguide.html)
 
 ## Books
 #### [PHP](./books.md#php)
