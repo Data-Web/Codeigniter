@@ -31,23 +31,29 @@
 ## Getting Started With CodeIgniter
 #### [Getting Started With CodeIgniter](https://www.codeigniter.com/user_guide/overview/getting_started.html)
 
-## Training
-
-### Basic
-#### [PHP](./training.md#php)
-
-#### [Laravel](./training.md#laravel)
-
-#### [Javascript & CSS](./training.md#javascript--css)
-
-### Advanced
-#### [PHP](./training.md#php-1)
-
-#### [Laravel](./training.md#laravel-1)
-
-#### [Javascript & CSS](./training.md#javascript--css-1)
-
-## Libraries
-#### [Libraries](./libraries.md)
-
-## Best Practices
+## Training Topics
+  - CodeIgniter URLs
+  - Controllers
+  - Reserved Names
+  - Views
+  - Models
+  - Helpers
+  - Using CodeIgniter Libraries
+  - Creating Libraries
+  - Using CodeIgniter Drivers
+  - Creating Drivers
+  - Creating Core System Classes
+  - Creating Ancillary Classes
+  - Hooks - Extending the Framework Core
+  - Auto-loading Resources
+  - Common Functions
+  - Compatibility Functions
+  - URI Routing
+  - Error Handling
+  - Caching
+  - Profiling Your Application
+  - Running via the CLI
+  - Managing your Applications
+  - Handling Multiple Environments
+  - Alternate PHP Syntax for View Files
+  - Security
