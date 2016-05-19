@@ -32,6 +32,7 @@
 #### [Getting Started With CodeIgniter](https://www.codeigniter.com/user_guide/overview/getting_started.html)
 
 ## Training Topics
+###### [Topics for CodeIgniter](https://www.codeigniter.com/user_guide/general/index.html)
   - CodeIgniter URLs
   - Controllers
   - Reserved Names
@@ -58,4 +59,4 @@
   - Alternate PHP Syntax for View Files
   - Security
 
-#### [Topics for CodeIgniter](https://www.codeigniter.com/user_guide/general/index.html)
+
