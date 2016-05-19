@@ -61,3 +61,33 @@
 
 ## Libraries
 ###### [Libraries for CodeIgniter](https://www.codeigniter.com/user_guide/libraries/index.html)
+  - Benchmarking Class
+  - Caching Driver
+  - Calendaring Class
+  - Shopping Cart Class
+  - Config Class
+  - Email Class
+  - Encrypt Class
+  - Encryption Library
+  - File Uploading Class
+  - Form Validation
+  - FTP Class
+  - Image Manipulation Class
+  - Input Class
+  - Javascript Class
+  - Language Class
+  - Loader Class
+  - Migrations Class
+  - Output Class
+  - Pagination Class
+  - Template Parser Class
+  - Security Class
+  - Session Library
+  - HTML Table Class
+  - Trackback Class
+  - Typography Class
+  - Unit Testing Class
+  - URI Class
+  - User Agent Class
+  - XML-RPC and XML-RPC Server Classes
+  - Zip Encoding Class
